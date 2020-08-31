@@ -1,0 +1,13 @@
+E:\prj\Task-13\Task-13\bin\Debug\netcoreapp3.1\Task-13.exe
+E:\prj\Task-13\Task-13\bin\Debug\netcoreapp3.1\Task-13.deps.json
+E:\prj\Task-13\Task-13\bin\Debug\netcoreapp3.1\Task-13.runtimeconfig.json
+E:\prj\Task-13\Task-13\bin\Debug\netcoreapp3.1\Task-13.runtimeconfig.dev.json
+E:\prj\Task-13\Task-13\bin\Debug\netcoreapp3.1\Task-13.dll
+E:\prj\Task-13\Task-13\bin\Debug\netcoreapp3.1\Task-13.pdb
+E:\prj\Task-13\Task-13\obj\Debug\netcoreapp3.1\Task-13.csprojAssemblyReference.cache
+E:\prj\Task-13\Task-13\obj\Debug\netcoreapp3.1\Task-13.AssemblyInfoInputs.cache
+E:\prj\Task-13\Task-13\obj\Debug\netcoreapp3.1\Task-13.AssemblyInfo.cs
+E:\prj\Task-13\Task-13\obj\Debug\netcoreapp3.1\Task-13.csproj.CoreCompileInputs.cache
+E:\prj\Task-13\Task-13\obj\Debug\netcoreapp3.1\Task-13.dll
+E:\prj\Task-13\Task-13\obj\Debug\netcoreapp3.1\Task-13.pdb
+E:\prj\Task-13\Task-13\obj\Debug\netcoreapp3.1\Task-13.genruntimeconfig.cache
